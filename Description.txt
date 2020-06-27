@@ -1,0 +1,6 @@
+Exercise
+
+"Please implement VAT number check using SPA framework of choice (preferably ember, angular, react, etc).
+- Vat check must be performed against endpoint: https://vat.erply.com/numbers?vatNumber=BG999999999
+- Create form for lookup and show results.
+Example id for lookup: EE100247019"
